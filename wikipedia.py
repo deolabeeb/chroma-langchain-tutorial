@@ -2,6 +2,12 @@ import requests
 import pypandoc
 import datetime
 import re
+import pypandoc
+
+# Call download_pandoc() to install pandoc
+pypandoc.download_pandoc()
+
+
 
 _ALGORITHMS = ["Isolation Forest", "Random Forest", "K Nearest Neighbour", "One class SVM", "Linear Regression",
                "Logistic Regression", "Support Vector Machine", "K Means Clustering", "Hierarchical Clustering",

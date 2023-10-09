@@ -1,4 +1,4 @@
-# Chroma and LangChain Demo
+# Chroma and LangChain Demo by @deolabeebAbeeb 
 This repository contains code and resources for demonstrating the power of Chroma and LangChain for asking questions about your own data. 
 The demo showcases how to pull data from the English Wikipedia using their API. The project also demonstrates how to vectorize data in chunks and get embeddings using OpenAI embeddings model.
 
